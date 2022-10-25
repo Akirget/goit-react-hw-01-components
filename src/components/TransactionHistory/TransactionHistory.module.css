@@ -19,3 +19,8 @@ body {
 
   height: 50px;
 }
+
+.item:hover {
+  background-color: rgb(172, 172, 172);
+  cursor: pointer;
+}

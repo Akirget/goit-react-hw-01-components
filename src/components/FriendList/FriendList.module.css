@@ -17,6 +17,11 @@
   border: 1px solid black;
 }
 
+.item:hover {
+  background-color: rgb(150, 158, 165);
+  cursor: pointer;
+}
+
 .online {
   display: block;
   margin-right: 20px;
