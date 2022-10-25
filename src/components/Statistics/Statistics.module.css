@@ -1,0 +1,32 @@
+.statistics {
+  background-color: rgba(239, 239, 239, 0.809);
+  width: 400px;
+
+  border-radius: 3px;
+  align-items: center;
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px 20px;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+}
+.list {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  font-weight: 700;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
